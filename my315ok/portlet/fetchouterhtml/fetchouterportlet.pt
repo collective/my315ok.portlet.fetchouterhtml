@@ -1,0 +1,14 @@
+<div  i18n:domain="my315ok.portlet.fetchouterhtml" tal:condition="view/available" tal:omit-tag="">
+	<dl class="portlet portletFetchOuterPortlet">
+	  <dt tal:condition="view/data/show_more" class="portletHeader"  tal:define="collection_url view/data/targeturi">
+        <span class="portletTopLeft"></span>
+         <a tal:attributes="href collection_url">
+		    <span class="portletHeadImg"></span>
+            <span tal:content="view/portlet_header" />
+			<span class="moreurl"></span>
+        </a>
+        <span class="portletTopRight"></span>
+    </dt>
+    <dd tal:attributes="id view/data/innerid" tal:content="structure python: view.result()">outer</dd>	
+    </dl>
+</div>

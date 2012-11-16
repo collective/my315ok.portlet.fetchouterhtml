@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<portlets
+    xmlns:i18n="http://xml.zope.org/namespaces/i18n"
+    i18n:domain="plone">
+
+ <!-- Portlet type registrations -->
+
+ <portlet
+   addview="my315ok.portlet.fetchouterhtml.FetchOuterPortlet"
+   title="Fetch outer portlet"
+   description="A portlet that using fetch other site web page"
+   i18n:attributes="title; description"
+
+   />
+
+
+</portlets>

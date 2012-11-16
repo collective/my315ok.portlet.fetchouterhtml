@@ -1,0 +1,131 @@
+# --- PLEASE EDIT THE LINES BELOW CORRECTLY ---
+# SOME DESCRIPTIVE TITLE.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2011-01-14 02:45+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"Language-Code: en\n"
+"Language-Name: English\n"
+"Preferred-Encodings: utf-8 latin1\n"
+"Domain: my315ok.portlet.fetchouterhtml\n"
+
+#: ../fetchouterportlet.py:260
+msgid "If enabled, html src will using tidy lib to filter its content."
+msgstr ""
+
+#: ../fetchouterportlet.py:300
+msgid "If return multiple info block,specify the index number of we fetch that one block."
+msgstr ""
+
+#: ../fetchouterportlet.py:267
+msgid "Specify the duration for using fresh page,in hours."
+msgstr ""
+
+#: ../fetchouterportlet.py:264
+msgid "Specify the url of the target website."
+msgstr ""
+
+#: ../fetchouterportlet.py:276
+msgid "Specify your password in target website."
+msgstr ""
+
+#: ../fetchouterportlet.py:272
+msgid "Specify your username in target website."
+msgstr ""
+
+#: ../fetchouterportlet.py:263
+msgid "URI"
+msgstr ""
+
+#: ../fetchouterportlet.py:291
+msgid "attributes of html tag"
+msgstr ""
+
+#: ../fetchouterportlet.py:303
+msgid "char code"
+msgstr ""
+
+#: ../fetchouterportlet.py:287
+msgid "css class of the outer selector"
+msgstr ""
+
+#: ../fetchouterportlet.py:321
+msgid "doc id"
+msgstr ""
+
+#: ../fetchouterportlet.py:279
+msgid "html tag"
+msgstr ""
+
+#: ../fetchouterportlet.py:299
+msgid "index"
+msgstr ""
+
+#: ../fetchouterportlet.py:309
+msgid "inner css id"
+msgstr ""
+
+#: ../fetchouterportlet.py:266
+msgid "interval"
+msgstr ""
+
+#: ../fetchouterportlet.py:283
+msgid "outer css id"
+msgstr ""
+
+#: ../fetchouterportlet.py:275
+msgid "passwd"
+msgstr ""
+
+#: ../fetchouterportlet.py:295
+msgid "regular expression"
+msgstr ""
+
+#: ../fetchouterportlet.py:304
+msgid "source html page char code"
+msgstr ""
+
+#: ../fetchouterportlet.py:292
+msgid "specify the attributes of will be fetched html tag"
+msgstr ""
+
+#: ../fetchouterportlet.py:296
+msgid "speciy the attributes matched regular expression"
+msgstr ""
+
+#: ../fetchouterportlet.py:288
+msgid "the child css class selector of outer source"
+msgstr ""
+
+#: ../fetchouterportlet.py:284
+msgid "the css id of outer source that you will locate."
+msgstr ""
+
+#: ../fetchouterportlet.py:310
+msgid "the css id that you need load html to here."
+msgstr ""
+
+#: ../fetchouterportlet.py:322
+msgid "the generated doc id that using for cache out html source."
+msgstr ""
+
+#: ../fetchouterportlet.py:280
+msgid "the html tag of outer source that you will locate."
+msgstr ""
+
+#: ../fetchouterportlet.py:259
+msgid "tidy html"
+msgstr ""
+
+#: ../fetchouterportlet.py:271
+msgid "username"
+msgstr ""
+

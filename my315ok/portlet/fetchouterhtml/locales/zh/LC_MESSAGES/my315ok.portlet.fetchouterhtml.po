@@ -1,0 +1,128 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2011-01-14 02:45+0000\n"
+"PO-Revision-Date: 2009-06-11 19:04+0800\n"
+"Last-Translator: adam tang(315ok.org) <yuejun.tang@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"Language-Code: en\n"
+"Language-Name: English\n"
+"Preferred-Encodings: utf-8 latin1\n"
+"Domain: DOMAIN\n"
+
+#: ../fetchouterportlet.py:260
+msgid "If enabled, html src will using tidy lib to filter its content."
+msgstr "如果启用，抓取的html将用tidy过滤，以清除损坏的tag"
+
+#: ../fetchouterportlet.py:300
+msgid "If return multiple info block,specify the index number of we fetch that one block."
+msgstr "如果抓取到多个类似的信息块，则指定该参数，以决定提取第几个信息块"
+
+#: ../fetchouterportlet.py:267
+msgid "Specify the duration for using fresh page,in hours."
+msgstr "指定抓取内容刷新间隔，以小时为单位"
+
+#: ../fetchouterportlet.py:264
+msgid "Specify the url of the target website."
+msgstr "指定要获取的目标网页的网址。"
+
+#: ../fetchouterportlet.py:276
+msgid "Specify your password in target website."
+msgstr "指定访问目标网页所需要的口令。"
+
+#: ../fetchouterportlet.py:272
+msgid "Specify your username in target website."
+msgstr "指定访问目标网页所需要的用户名。"
+
+#: ../fetchouterportlet.py:263
+msgid "URI"
+msgstr "网址"
+
+#: ../fetchouterportlet.py:291
+msgid "attributes of html tag"
+msgstr "指定该html tag的属性"
+
+#: ../fetchouterportlet.py:303
+msgid "char code"
+msgstr "字符编码"
+
+#: ../fetchouterportlet.py:287
+msgid "css class of the outer selector"
+msgstr "外部源文档的css 类"
+
+#: ../fetchouterportlet.py:321
+msgid "doc id"
+msgstr "内部缓存文档的id号"
+
+#: ../fetchouterportlet.py:279
+msgid "html tag"
+msgstr "html tag"
+
+#: ../fetchouterportlet.py:299
+msgid "index"
+msgstr "信息块索引号"
+
+#: ../fetchouterportlet.py:309
+msgid "inner css id"
+msgstr "嵌入内部网页面板的css id"
+
+#: ../fetchouterportlet.py:266
+msgid "interval"
+msgstr "间隔"
+
+#: ../fetchouterportlet.py:283
+msgid "outer css id"
+msgstr "抓取的源文档的定位css id"
+
+#: ../fetchouterportlet.py:275
+msgid "passwd"
+msgstr "口令"
+
+#: ../fetchouterportlet.py:295
+msgid "regular expression"
+msgstr "html tag 的属性的正则表达式规则"
+
+#: ../fetchouterportlet.py:304
+msgid "source html page char code"
+msgstr "抓取的源文档的字符编码方式，常见为UTF-8或GBK"
+
+#: ../fetchouterportlet.py:292
+msgid "specify the attributes of will be fetched html tag"
+msgstr "指定将被抓取的html tag 的属性，如img tag  的 src属性等"
+
+#: ../fetchouterportlet.py:296
+msgid "speciy the attributes matched regular expression"
+msgstr "指定html　tag 的属性所应匹配的正则表达式"
+
+#: ../fetchouterportlet.py:288
+msgid "the child css class selector of outer source"
+msgstr "抓取源文档的css class"
+
+#: ../fetchouterportlet.py:284
+msgid "the css id of outer source that you will locate."
+msgstr "抓取文档的信息块的css id号"
+
+#: ../fetchouterportlet.py:310
+msgid "the css id that you need load html to here."
+msgstr "内部文档的css id号"
+
+#: ../fetchouterportlet.py:322
+msgid "the generated doc id that using for cache out html source."
+msgstr "抓取内容保留到本地的文档的id号"
+
+#: ../fetchouterportlet.py:280
+msgid "the html tag of outer source that you will locate."
+msgstr "外部抓取文档的html tag"
+
+#: ../fetchouterportlet.py:259
+msgid "tidy html"
+msgstr "清洁html"
+
+#: ../fetchouterportlet.py:271
+msgid "username"
+msgstr "用户名"
+
